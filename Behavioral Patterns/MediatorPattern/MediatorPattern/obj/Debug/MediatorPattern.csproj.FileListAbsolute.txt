@@ -1,0 +1,6 @@
+c:\users\beyondtech\documents\visual studio 2013\Projects\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+c:\users\beyondtech\documents\visual studio 2013\Projects\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
+c:\users\beyondtech\documents\visual studio 2013\Projects\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.csprojResolveAssemblyReference.cache
+c:\users\beyondtech\documents\visual studio 2013\Projects\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.pdb

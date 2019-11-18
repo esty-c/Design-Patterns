@@ -1,0 +1,15 @@
+Going by its name, we can say that observer is something (objects in case of OOPS) which is looking upon (observing) other object(s). 
+Observer pattern is popularly known to be based on "The Hollywood Principle" which says- "Don’t call us, we will call you.
+" Pub-Sub (Publisher-Subscriber) is yet another popular nickname given to Observer pattern.
+
+Based on the "Hollywood principle", we can make a guess that in observer pattern, there is a special Hollywood celebrity object in which all other common objects are interested.
+
+Purpose of Observer Pattern
+
+The Observer pattern is to notify the interested observers about some change occurred. We can add more observers in runtime as well as remove them.
+
+Example: We have a form to select the color. 
+For each color change we need to update the entire application. There will be observers listening to the color change event for updating themselves.
+
+
+https://www.youtube.com/watch?v=YIX9Bkl3ZPE

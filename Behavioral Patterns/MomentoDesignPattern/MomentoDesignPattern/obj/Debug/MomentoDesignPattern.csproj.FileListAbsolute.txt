@@ -1,0 +1,6 @@
+c:\users\beyondtech\documents\visual studio 2013\Projects\MomentoDesignPattern\MomentoDesignPattern\bin\Debug\MomentoDesignPattern.exe.config
+C:\Users\BeyondTech\documents\visual studio 2013\Projects\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\MomentoDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\BeyondTech\documents\visual studio 2013\Projects\MomentoDesignPattern\MomentoDesignPattern\bin\Debug\MomentoDesignPattern.exe
+C:\Users\BeyondTech\documents\visual studio 2013\Projects\MomentoDesignPattern\MomentoDesignPattern\bin\Debug\MomentoDesignPattern.pdb
+C:\Users\BeyondTech\documents\visual studio 2013\Projects\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\MomentoDesignPattern.exe
+C:\Users\BeyondTech\documents\visual studio 2013\Projects\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\MomentoDesignPattern.pdb

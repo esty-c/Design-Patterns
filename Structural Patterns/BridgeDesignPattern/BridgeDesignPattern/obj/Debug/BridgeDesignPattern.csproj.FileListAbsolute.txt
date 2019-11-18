@@ -1,0 +1,6 @@
+c:\users\beyondtech\documents\visual studio 2013\Projects\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+c:\users\beyondtech\documents\visual studio 2013\Projects\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\beyondtech\documents\visual studio 2013\Projects\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+c:\users\beyondtech\documents\visual studio 2013\Projects\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb

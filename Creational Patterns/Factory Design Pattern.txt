@@ -1,0 +1,2 @@
+
+It is used for creating objects to encapsulate the instantiation logic. Client doesn’t know the actual instantiation logic of entity.

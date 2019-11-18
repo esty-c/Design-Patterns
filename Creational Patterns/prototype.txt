@@ -1,0 +1,12 @@
+Shallow cloning and Deep cloning
+
+The cloning of the object can be divided into two categories:
+
+    Shallow Cloning: In shallow cloning non static fields of the current object is copied in the new object. 
+	For the value type fields bit-by-bit copy of field is performed. For the reference type field, the reference/ address is copied but the referred object is not; so, both the original and cloned object will refer to the same instance of reference type fields.
+	In C#, shallow cloning is performed using MemberWiseClone method.
+	
+	
+    Deep Cloning: Deep cloning basically duplicates everything.
+	In deep cloning, both value type and reference type are copied in cloned object; original and cloned objects becomes two distinct object. 
+	So if cloned object instance is modified there will be no change in original object.

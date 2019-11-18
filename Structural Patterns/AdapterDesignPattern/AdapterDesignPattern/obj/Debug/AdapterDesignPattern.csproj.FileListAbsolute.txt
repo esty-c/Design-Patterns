@@ -1,0 +1,6 @@
+c:\users\beyondtech\documents\visual studio 2013\Projects\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+c:\users\beyondtech\documents\visual studio 2013\Projects\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+c:\users\beyondtech\documents\visual studio 2013\Projects\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\beyondtech\documents\visual studio 2013\Projects\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb

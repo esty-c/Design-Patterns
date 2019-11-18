@@ -1,0 +1,6 @@
+c:\users\beyondtech\documents\visual studio 2013\Projects\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe.config
+c:\users\beyondtech\documents\visual studio 2013\Projects\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\beyondtech\documents\visual studio 2013\Projects\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.pdb
+c:\users\beyondtech\documents\visual studio 2013\Projects\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.pdb

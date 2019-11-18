@@ -1,0 +1,6 @@
+c:\users\beyondtech\documents\visual studio 2013\Projects\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+c:\users\beyondtech\documents\visual studio 2013\Projects\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+c:\users\beyondtech\documents\visual studio 2013\Projects\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojResolveAssemblyReference.cache
+c:\users\beyondtech\documents\visual studio 2013\Projects\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
